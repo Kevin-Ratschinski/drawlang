@@ -1,0 +1,14 @@
+_setColor("blue");
+_draw();
+_bottom(500);
+_draw();
+_right(300);
+_draw();
+_top(100);
+_draw();
+_left(200);
+_draw();
+_top(400);
+_draw();
+_left(100);
+_draw();
