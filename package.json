@@ -1,0 +1,24 @@
+{
+  "name": "drawlang",
+  "version": "1.0.0",
+  "description": "Drawing language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Ratschinski/drawlang.git"
+  },
+  "keywords": [
+    "draw",
+    "language"
+  ],
+  "author": "kevin ratschinski",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Kevin-Ratschinski/drawlang/issues"
+  },
+  "homepage": "https://github.com/Kevin-Ratschinski/drawlang#readme"
+}
